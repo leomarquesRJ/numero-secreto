@@ -7,7 +7,7 @@ Curso: Alura ONE
 //Variavel
 let listaNumerosSorteado = [];
 let numTentativas = 1;
-let numLimite = 10;
+let numLimite = 100;
 let numSecreto = gerarNumeroAleatorio();
 console.log("numSecreto", + numSecreto)
   
